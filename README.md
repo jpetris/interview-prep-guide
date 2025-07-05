@@ -7,9 +7,9 @@ This question is the ice breaker in job interviews, interviewers often use it as
 Even then, you don't want to miss the chance to use this short introduction for showcasing your strenghts and interest.
 
 **What they want to know**
-- Who you are professionally - your background, skills, and career path.
-- Why you are here - what led you to the role and company.
-- What you bring to the table - how your experience aligns with their needs.
+- **Who you are professionally** -  your background, skills, and career path.
+- **Why you are here** - what led you to interview for the role and company.
+- **What you bring to the table** - how your experience aligns with their needs.
 
 **How to structure your answer**
 
@@ -21,7 +21,7 @@ Use the present-past-future framework:
 **Tips**
 - Keep it short and relevant, around 2-3 minutes is often a sweet spot.
 - Don't go to personal, focus on your professional story.
-- Summarize your resume, don't recite it from memory.
+- **Summarize** your resume, don't recite it from memory.
 
 ### 1.2 The STAR method
 [🚧 TODO: Add description]
@@ -33,6 +33,8 @@ The STAR method its a great oportunity to showcase:
 - Adaptability & Flexibility
 - Time Management & Prioritization
 - Communication & Conflict Resolution
+
+[🚧 TODO: Add example quesitons]
 
 ## 2 Technical Interview 💻
 ### 2.1 DSA (Data Structures & Algorithms)
@@ -100,17 +102,17 @@ The STAR method its a great oportunity to showcase:
 - Structural
 - Behavioral
 
-#### 📚
+### _Resources 📚_
 - [BettaTech - Patrones de diseño](https://www.youtube.com/playlist?list=PLJkcleqxxobUJlz1Cm8WYd-F_kckkDvc8)
 
-## Coding Interview / Code Challenge
+## 3. Coding Interview / Code Challenge
 
-### Common patterns & techniques
+### 3.1 Common patterns & techniques
 - Sliding window
 - Two pointers
 - Tree traverse
 - In-place reversal
 - Recursive approaches
 
-#### 📚
-- [NeetCode](https://neetcode.io/roadmap) 👌
+### _Resources 📚_
+- [NeetCode - ](https://neetcode.io/roadmap) 👌
