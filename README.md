@@ -42,7 +42,7 @@ The STAR method its a great oportunity to showcase:
 - Set
 - Array
 - List
-  - Linked List
+	- Linked List
 - HashMap
 	- What is a collision and how are they handled
 	- Hash Code
@@ -52,58 +52,64 @@ The STAR method its a great oportunity to showcase:
 
 ### 2.2 Design Principles
 - OOP principles
-  - Inheritance
-  - Polymorphism
-  - Encapsulation
-  - Abstraction
+	- Inheritance
+	- Polymorphism
+	- Encapsulation
+	- Abstraction
 - SOLID principles
-  - Single reponsibility
-  - Open/closed principle
-  - Liskov's substitution principle
-  - Interface segregation
-  - Dependency inversion
+	- Single reponsibility
+	- Open/closed principle
+	- Liskov's substitution principle
+	- Interface segregation
+	- Dependency inversion
 - Dependency Inversion (IoC) / Dependency Injection
 
 ### 2.3 Java
 - Features
 	- Bytecode
 	- JRE vs JDK vs JVM
-- Language
-  - Classes
+- Syntax and Constructs
+	- Classes
 	- Interfaces
-	- [Java Collections Framework](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html)
+	- Java Collections Framework
 	- Exceptions
-  - Concurrency / Multithreading
+	- Concurrency / Multithreading
 - Functional programming
-  - Lambdas
-  - Functional Interfaces
-  - Streams
-    - Build-in functional interfaces
+	- Lambdas
+	- Functional Interfaces
+	- Streams
+		- Build-in functional interfaces
+ 
+#### _Resources 📚_
+- Dev Java Tutorials - https://dev.java/learn/#:~:text=Getting%20to%20Know%20the%20Language
+- Oracle: Collections Framework - https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html
 
 ### 2.4 Spring Framework
 - Why does Spring exist?
 - Spring Framework vs Spring Boot
-  - Spring boot annotations
-  - Spring boot starters
+	- Spring boot annotations
+	- Spring boot starters
 
 ### 2.5 Web Concepts
 - HTTP verbs (methods)
-	- Update vs Patch
+	- GET, POST, PUT, DELETE
+	- PUT vs PATCH
 - HTTP codes (2xx, 4xx, 5xx, etc)
 - Web APIs
 	- REST (RESTful)
+		- API versioning
 	- GraphQL
 
 ### 2.6 Design Patterns
 - Creational
-  - Singleton
-  - Factory
-  - Builder
+	- Singleton
+	- Factory
+	- Builder
 - Structural
 - Behavioral
 
-### _Resources 📚_
-- [BettaTech - Patrones de diseño](https://www.youtube.com/playlist?list=PLJkcleqxxobUJlz1Cm8WYd-F_kckkDvc8)
+#### _Resources 📚_
+- BettaTech - Patrones de diseño - https://www.youtube.com/playlist?list=PLJkcleqxxobUJlz1Cm8WYd-F_kckkDvc8
 
 ## 3. Coding Interview / Code Challenge
 
@@ -114,5 +120,5 @@ The STAR method its a great oportunity to showcase:
 - In-place reversal
 - Recursive approaches
 
-### _Resources 📚_
-- [NeetCode - ](https://neetcode.io/roadmap) 👌
+#### _Resources 📚_
+- NeetCode - Coding Interview Preparation - https://neetcode.io/roadmap 👌
