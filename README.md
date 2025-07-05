@@ -1,6 +1,6 @@
 # Interview Preparation Guide (work in progress 🚧)
 
-## 1. Behavioral Interview 🧠
+## 1 Behavioral Interview 🧠
 ### 1.1 The _tell me about yourself_ question
 This question is the ice breaker in job interviews, interviewers often use it as an opportunity for you to tell your story (and relax a bit before the real interview).
 
@@ -81,8 +81,8 @@ The STAR method its a great oportunity to showcase:
 		- Build-in functional interfaces
  
 #### _Resources 📚_
-- Dev Java Tutorials - https://dev.java/learn/#:~:text=Getting%20to%20Know%20the%20Language
-- Oracle: Collections Framework - https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html
+- Dev Java Tutorials -> https://dev.java/learn/#:~:text=Getting%20to%20Know%20the%20Language
+- Oracle: Collections Framework -> https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html
 
 ### 2.4 Spring Framework
 - Why does Spring exist?
@@ -109,9 +109,9 @@ The STAR method its a great oportunity to showcase:
 - Behavioral
 
 #### _Resources 📚_
-- BettaTech - Patrones de diseño - https://www.youtube.com/playlist?list=PLJkcleqxxobUJlz1Cm8WYd-F_kckkDvc8
+- BettaTech - Patrones de diseño -> https://www.youtube.com/playlist?list=PLJkcleqxxobUJlz1Cm8WYd-F_kckkDvc8
 
-## 3. Coding Interview / Code Challenge
+## 3 Coding Interview / Code Challenge
 
 ### 3.1 Common patterns & techniques
 - Sliding window
@@ -121,4 +121,4 @@ The STAR method its a great oportunity to showcase:
 - Recursive approaches
 
 #### _Resources 📚_
-- NeetCode - Coding Interview Preparation - https://neetcode.io/roadmap 👌
+- NeetCode - Coding Interview Preparation -> https://neetcode.io/roadmap 👌
